@@ -106,7 +106,7 @@ POS_System/
 ├── PPT/
 └── Documentation/
 ```
-##🖥️ User Interface
+## 🖥️ User Interface
 
 The system contains the following main screens:
 
@@ -120,11 +120,11 @@ The system contains the following main screens:
 
 The interface uses consistent buttons, readable labels, appropriate spacing, and simple navigation.
 
-##📸 Screenshots
+## 📸 Screenshots
 
 Screenshots of the system are available in the Screenshots folder.
 
-##📋 Optional Features
+## 📋 Optional Features
 
 The following features are not currently included:
 
@@ -139,14 +139,14 @@ The following features are not currently included:
 - Product image support
 - Advanced search filters
 
-##🎯 Purpose
+## 🎯 Purpose
 
 This project was developed as an academic POS system project to demonstrate practical knowledge of C# Windows Forms, database management, CRUD operations, validation, billing, and stock management.
 
-##👩‍💻 Developer
+## 👩‍💻 Developer
 
 **Parami Sandarenu**
 
-##📄 License
+## 📄 License
 
 This project was developed for educational purposes.
