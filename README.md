@@ -69,12 +69,12 @@ The system includes the following validation rules:
 
 ## 🛠️ Technologies Used
 
-- C#
-- Windows Forms
-- .NET Framework
-- SQLite / System.Data.SQLite
-- Visual Studio
-- GitHub
+- **C#**
+- **Windows Forms**
+- **.NET Framework**
+- **SQLite / System.Data.SQLite**
+- **Visual Studio**
+- **GitHub**
 
 ## 🗄️ Database
 
@@ -88,7 +88,7 @@ The system uses a database to store information such as:
 - Stock information
 
 ## 📂 Project Structure
-
+```text
 POS_System/
 │
 ├── POS_System.sln
@@ -105,48 +105,48 @@ POS_System/
 ├── Screenshots/
 ├── PPT/
 └── Documentation/
-
-🖥️ User Interface
+```
+##🖥️ User Interface
 
 The system contains the following main screens:
 
-Welcome Screen
-Dashboard
-Category Management
-Product Management
-Customer Management
-Billing / Sales
-Sales History
+- Welcome Screen
+- Dashboard
+- Category Management
+- Product Management
+- Customer Management
+- Billing / Sales
+- Sales History
 
 The interface uses consistent buttons, readable labels, appropriate spacing, and simple navigation.
 
-📸 Screenshots
+##📸 Screenshots
 
 Screenshots of the system are available in the Screenshots folder.
 
-📋 Optional Features
+##📋 Optional Features
 
 The following features are not currently included:
 
-Login authentication
-Receipt preview
-Bill printing
-Discount calculation
-Tax calculation
-Low-stock alert
-Dashboard statistics
-Dark mode
-Product image support
-Advanced search filters
+- Login authentication
+- Receipt preview
+- Bill printing
+- Discount calculation
+- Tax calculation
+- Low-stock alert
+- Dashboard statistics
+- Dark mode
+- Product image support
+- Advanced search filters
 
-🎯 Purpose
+##🎯 Purpose
 
 This project was developed as an academic POS system project to demonstrate practical knowledge of C# Windows Forms, database management, CRUD operations, validation, billing, and stock management.
 
-👩‍💻 Developer
+##👩‍💻 Developer
 
-Parami Sandarenu
+**Parami Sandarenu**
 
-📄 License
+##📄 License
 
 This project was developed for educational purposes.
